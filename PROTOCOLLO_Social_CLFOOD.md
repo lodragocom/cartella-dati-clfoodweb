@@ -4,7 +4,7 @@
 **Aggiornato:** 30 giugno 2026 · **Stato:** attivo
 **Brand:** CL-FOOD di Calogero Lombardo — import e distribuzione di prodotti enogastronomici siciliani e italiani artigianali in Svizzera (sede: Zürich)
 **Cartella operativa:** `social/Social_CLFOOD_YYYY-MM/` (un mese = una cartella)
-**Collegati:** `social/instagram-10-post-cl-food.md` (banca contenuti di partenza), repo sito `clfoodweb`
+**Collegati:** `social/instagram-10-post-cl-food.md` (banca contenuti di partenza), repo sito `clfoodweb`, protocollo lavori sito `PROTOCOLLO-2026-06-30.md`, foglio gestione catalogo `Catalogo_CLFOOD_gestione.xlsx`
 
 > Questo è il protocollo di riferimento per il social di CL-FOOD. La banca dei primi 10 post
 > (`instagram-10-post-cl-food.md`) è il punto di partenza: da lì si pescano i temi e si producono gli asset.
@@ -26,17 +26,20 @@ Profilo: **@clfood1987** (IG) + Pagina Facebook **CL-FOOD**. Stile visivo: base 
 
 ---
 
-## 2. Pilastri (3 aree prodotto + 1 filone trasversale)
+## 2. Pilastri (4 aree prodotto + 1 filone trasversale)
+
+Allineati alle categorie del sito: **Pasta** (`/pasta`), **Olio & Dispensa** (`/olio`), **Panettoni & Regali** (`/panettoni`), **Forno** (`/forno`).
 
 | Pilastro | Colore accento | Di cosa parla | Prodotti |
 |---|---|---|---|
-| **Pasta** | Oliva `#4F5D2A` | trafilata al bronzo, formati, ricette/abbinamenti | Pasta Primeluci (Pastificio Gallo, Mazara del Vallo, 1944) |
-| **Olio & Dispensa** | Oro `#E0A52C` | EVO estrazione a freddo, legumi, salse, genuinità | Olio EVO CL-FOOD, legumi, salse pronte (pomodoro siciliano) |
-| **Dolci & Regali** | Arancio `#D2691E` | panettoni, lievito madre, regali privati e aziendali | Panettoni & dolci Frolsi (Palermo, pistacchio di Bronte) |
+| **Pasta** | Oliva `#4F5D2A` | trafilata al bronzo, formati, ricette/abbinamenti, integrale | Pasta Primeluci (Pastificio Gallo, Mazara del Vallo, 1944) — linee **Classiche**, **Speciali**, **Trafilate al Bronzo** e **Le Integrali** |
+| **Olio & Dispensa** | Oro `#E0A52C` | EVO estrazione a freddo, salse, genuinità | Olio EVO CL-FOOD, salse pronte (pomodoro siciliano) |
+| **Panettoni & Regali** | Arancio `#D2691E` | panettoni e pandori delle feste, lievito madre, regali privati e aziendali | Frolsi (Palermo) — linea "Miti di Sicilia": Cioccolato di Modica IGP, pistacchio, mandarino tardivo di Ciaculli |
+| **Forno** | Oro/arancio | la bontà di tutti i giorni: colazione e burger gourmet | Frolsi forno — brioche col tuppo, buns gourmet, muffin, frollini "Le Novelle" |
 
 **Filone trasversale — Storia & Brand** (base crema/oliva, eyebrow oro): fondatore Calogero Lombardo, "perché la Sicilia in Svizzera", dietro le quinte, valori (zero conservanti, artigianalità). Si alterna ai pilastri, non ha un giorno fisso.
 
-> **Stagionalità (importante):** i **panettoni/regali** sono il prodotto di punta da **ottobre a dicembre**. In quel periodo il pilastro "Dolci & Regali" sale a 2 contenuti/settimana e si lancia la campagna regali aziendali B2B. Nei mesi caldi pesano di più Pasta e Olio & Dispensa (insalate, piatti freschi).
+> **Stagionalità (importante):** i **panettoni/regali** sono il prodotto di punta da **ottobre a dicembre**. In quel periodo il pilastro "Panettoni & Regali" sale a 2 contenuti/settimana e si lancia la campagna regali aziendali B2B. Nei mesi caldi pesano di più Pasta, Olio & Dispensa e Forno (insalate e piatti freschi, colazione, burger estivi).
 
 ---
 
@@ -72,11 +75,11 @@ Per riprodurre sempre identica la grafica, definire un file `PROTOCOLLO_Layout_V
 
 | Giorno | Formato | Scopo |
 |---|---|---|
-| **Lunedì 09:00** | Carosello (ruota Pasta → Olio & Dispensa → Dolci & Regali) | traffico + salvataggi |
+| **Lunedì 09:00** | Carosello (ruota Pasta → Olio & Dispensa → Forno → Panettoni & Regali) | traffico + salvataggi |
 | **Mercoledì 09:00** | Reel (ricetta / dietro le quinte) **oppure** post prodotto | reach / awareness |
 | **Venerdì 09:00** | Story con domanda + link allo shop o al carosello | engagement + click |
 
-Ritmo base: **3 uscite/settimana**. In stagione panettoni (ott–dic): **+1 contenuto Dolci & Regali**. Canali: IG + FB (story solo IG; reel IG+FB).
+Ritmo base: **3 uscite/settimana**. In stagione panettoni (ott–dic): **+1 contenuto Panettoni & Regali**. Canali: IG + FB (story solo IG; reel IG+FB).
 
 ---
 
@@ -112,9 +115,10 @@ Template fisso:
 ```
 
 Hashtag per pilastro (8–12, mix brand + prodotto + locale):
-- **Pasta:** #clfood #pastaprimeluci #trafilataalbronzo #pasta #granoduro #sicilia #cucinaitaliana #zurigo #svizzera #autenticasicilia
-- **Olio & Dispensa:** #clfood #olioevo #extravergine #legumi #salsasiciliana #pomodorosiciliano #mangiaresano #sicilia #svizzera #madeinsicily
-- **Dolci & Regali:** #clfood #panettone #frolsi #pistacchiodibronte #dolcisiciliani #regalogourmet #regaliaziendali #natale #zurigo #svizzera
+- **Pasta:** #clfood #pastaprimeluci #trafilataalbronzo #pasta #granoduro #pastaintegrale #sicilia #cucinaitaliana #zurigo #svizzera #autenticasicilia
+- **Olio & Dispensa:** #clfood #olioevo #extravergine #salsasiciliana #pomodorosiciliano #mangiaresano #sicilia #svizzera #madeinsicily
+- **Panettoni & Regali:** #clfood #panettone #frolsi #cioccolatodimodica #pistacchiodibronte #mandarinotardivo #dolcisiciliani #regalogourmet #regaliaziendali #natale #zurigo #svizzera
+- **Forno:** #clfood #frolsi #briochecoltuppo #colazionesiciliana #buns #burgergourmet #muffin #frollini #sicilia #zurigo #svizzera
 
 Strategia link: **FB** = link diretto allo shop/prodotto in caption; **IG** = "link in bio" (Linktree con shop + prodotti della settimana) + sticker link nelle story. Ogni carosello chiude con la slide CTA "dove acquistare".
 
@@ -124,7 +128,7 @@ Strategia link: **FB** = link diretto allo shop/prodotto in caption; **IG** = "l
 
 Ogni settimana si amplifica **1 prodotto o 1 storia**. Fonti:
 1. **`instagram-10-post-cl-food.md`** — 10 angoli già scritti (presentazione brand, pasta al bronzo, olio EVO, panettone pistacchio, storia fondatore, legumi & salse, ricetta 3 ingredienti, regali aziendali, zero conservanti, CTA shop).
-2. **Catalogo prodotti** del sito (pasta nei vari formati, oli, legumi, salse, panettoni Frolsi nei vari gusti) → ogni prodotto = 1 post hero + 1 idea ricetta.
+2. **Catalogo prodotti** del sito (pasta Primeluci in ~90 formati incluse **Le Integrali**, olio EVO e salse, **panettoni & pandori** Frolsi "Miti di Sicilia", **forno** Frolsi: brioche col tuppo, buns gourmet, muffin, frollini "Le Novelle") → ogni prodotto = 1 post hero + 1 idea ricetta.
 3. **Storytelling** → fondatore, Sicilia, dietro le quinte, lievito madre, estrazione a freddo, trafilatura al bronzo.
 
 **Angoli stagionali da non perdere:** campagna **panettoni regalo** (ott–dic, privati + aziende), **cesti aziendali** per Natale, ricette estive con olio/pasta nei mesi caldi, "pacco in tutta la Svizzera" per il commerciale.
@@ -152,7 +156,8 @@ Limiti onesti:
 ## 9. Stato corrente (giugno–luglio 2026)
 
 - ✅ Banca dei primi **10 post** pronta (`instagram-10-post-cl-food.md`), italiano, mix completo.
-- ⏳ Da fare: creare `Social_CLFOOD_2026-07/`, produrre i primi asset 4:5 (3 caroselli + 2 reel + story) a partire dai 10 angoli, e impostare il design system `PROTOCOLLO_Layout_Visual_CLFOOD.md`.
-- 🗓️ Pianificare la **campagna panettoni** da fine settembre (teaser) con picco novembre–dicembre.
+- ✅ Sito ristrutturato: categorie shop **Pasta** (con Le Integrali), **Olio**, **Panettoni** (`/panettoni`) e **Forno** (`/forno`) — usare queste pagine come destinazione dei link e fonte foto prodotto.
+- ⏳ Da fare: creare `Social_CLFOOD_2026-07/`, produrre i primi asset 4:5 (3 caroselli + 2 reel + story) a partire dai 10 angoli, e impostare il design system `PROTOCOLLO_Layout_Visual_CLFOOD.md`. Aggiungere un carosello dedicato al **Forno** (colazione siciliana + buns gourmet) come nuovo pilastro.
+- 🗓️ Pianificare la **campagna panettoni** da fine settembre (teaser) con picco novembre–dicembre, linkando a `/panettoni`.
 
 **Prossimo mese:** duplicare la struttura cartella, pescare angoli freschi da catalogo + storytelling, produrre direttamente in 4:5, valutare le versioni DE per i post chiave.
