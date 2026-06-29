@@ -1,0 +1,12 @@
+# =========================================================
+# TEMPLATE — copia questo file in "segreti.local" e compilalo TU.
+# "segreti.local" è ESCLUSO da git (vedi .gitignore) → non verrà mai committato.
+# NON committare mai i valori reali. Se una chiave finisce in git, RIGENERALA.
+# =========================================================
+
+SUPABASE_SERVICE_ROLE_KEY=
+SUPABASE_DB_PASSWORD=
+RESEND_API_KEY=
+CLOUDFLARE_API_TOKEN=
+HOSTPOINT_LOGIN=
+# (aggiungi altro se serve)
