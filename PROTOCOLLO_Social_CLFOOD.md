@@ -3,7 +3,7 @@
 **Progetto:** CL-FOOD — Comunicazione / Social
 **Aggiornato:** 30 giugno 2026 · **Stato:** attivo
 **Brand:** CL-FOOD di Calogero Lombardo — import e distribuzione di prodotti enogastronomici siciliani e italiani artigianali in Svizzera (sede: Zürich)
-**Cartella operativa:** `social/Social_CLFOOD_YYYY-MM/` (un mese = una cartella)
+**Cartella operativa:** `cl-food/social/Social_CLFOOD_YYYY-MM/` (root del workspace, **fuori** dalle repo git; un mese = una cartella)
 **Collegati:** `social/instagram-10-post-cl-food.md` (banca contenuti di partenza), repo sito `clfoodweb`, protocollo lavori sito `PROTOCOLLO-2026-06-30.md`, foglio gestione catalogo `Catalogo_CLFOOD_gestione.xlsx`
 
 > Questo è il protocollo di riferimento per il social di CL-FOOD. La banca dei primi 10 post
@@ -153,11 +153,33 @@ Limiti onesti:
 
 ---
 
+## 8-bis. Produzione asset (Higgsfield + Canva)
+
+Pipeline per generare i visual on-brand senza partire da zero:
+
+1. **Higgsfield** (immagini food/lifestyle) — modello `marketing_studio_image`, formato **4:5**, ~2 crediti/immagine. Prompt in inglese, stile: *editorial food photography, warm tones, cream/olive palette, luce naturale calda, fondo legno/crema*. Workspace: privato (piano starter).
+2. **Canva** (impaginazione) — brand kit **"Cl-food"** `id = kAGnyof_FfY`. Si caricano le immagini Higgsfield con `upload-asset-from-url`, poi si genera il design (`instagram_post` = 4:5) passando `brand_kit_id` + `asset_ids`. Canva restituisce 4 bozze candidate → si sceglie e si crea il design modificabile.
+
+**Asset già prodotti (29–30 giu 2026):**
+| Pilastro | Immagine Higgsfield | Asset Canva |
+|---|---|---|
+| Forno | brioche col tuppo + granita (4:5) | `MAHN_8bD53U` |
+| Pasta | macro pasta al bronzo (4:5) | `MAHN_2nryZk` |
+| Olio | filo d'olio EVO su pane (4:5) | `MAHN_xLfiTg` |
+
+**Stato:** generate le 4 bozze del **post Forno** su Canva (in attesa di selezione). Da fare: scegliere la bozza Forno, replicare lo stesso stile per **Pasta** e **Olio**, poi estendere ai caroselli completi (più slide) e ai reel/story. Crediti Higgsfield usati: 6/147.
+
+> Regola: le immagini sono generate/AI → usarle come sfondo/scena; loghi, palette e testi vengono dal brand kit Canva, mai modificare la grafica senza prima il design system (`PROTOCOLLO_Layout_Visual_CLFOOD.md`).
+
+---
+
 ## 9. Stato corrente (giugno–luglio 2026)
 
 - ✅ Banca dei primi **10 post** pronta (`instagram-10-post-cl-food.md`), italiano, mix completo.
 - ✅ Sito ristrutturato: categorie shop **Pasta** (con Le Integrali), **Olio**, **Panettoni** (`/panettoni`) e **Forno** (`/forno`) — usare queste pagine come destinazione dei link e fonte foto prodotto.
-- ⏳ Da fare: creare `Social_CLFOOD_2026-07/`, produrre i primi asset 4:5 (3 caroselli + 2 reel + story) a partire dai 10 angoli, e impostare il design system `PROTOCOLLO_Layout_Visual_CLFOOD.md`. Aggiungere un carosello dedicato al **Forno** (colazione siciliana + buns gourmet) come nuovo pilastro.
+- ✅ Creata la cartella operativa **`Social_CLFOOD_2026-07/`** (in `cl-food/social/`): piano editoriale, caption del mese, 3 caroselli (Pasta/Olio/Forno), scheduling e coda automazione.
+- ✅ Avviata la **produzione asset** (vedi §8-bis): 3 immagini Higgsfield + brand kit Canva; prime bozze del post Forno generate.
+- ⏳ Da fare: scegliere/creare i 3 post (Pasta, Olio, Forno), estendere ai caroselli completi + reel + story, e impostare il design system `PROTOCOLLO_Layout_Visual_CLFOOD.md`.
 - 🗓️ Pianificare la **campagna panettoni** da fine settembre (teaser) con picco novembre–dicembre, linkando a `/panettoni`.
 
 **Prossimo mese:** duplicare la struttura cartella, pescare angoli freschi da catalogo + storytelling, produrre direttamente in 4:5, valutare le versioni DE per i post chiave.
